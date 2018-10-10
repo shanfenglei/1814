@@ -21,5 +21,11 @@ git init;
 
 6. git commit -m "一定要写煮熟"  在暂存区里把代码放入本地仓库产生版本;
 
+7. git reset --hard 版本号   版本还原;
+
+8. git log  查看版本号信息;
+   git reflog 查看简要版本信息;
+
+
 
 
