@@ -26,6 +26,11 @@ git init;
 8. git log  查看版本号信息;
    git reflog 查看简要版本信息;
 
+9. ** git remote add origin 项目路径;
+
+git remote 远程仓库设置; 设置成  add  名字叫做 origin（代表项目路径） 项目路径
+
+10. git push -u origin master; 本地仓库推送到远端仓库;
 
 
 
